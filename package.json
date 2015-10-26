@@ -3,7 +3,7 @@
     "slm": "^0.4.1"
   },
   "name": "jstransformer-slm",
-  "version": "0.0.1",
+  "version": "1.0.0",
   "description": "Slm support for JSTransformers.",
   "keywords": [
     "jstransformer"
@@ -17,6 +17,9 @@
   "scripts": {
     "coverage": "test-jstransformer coverage",
     "test": "test-jstransformer"
+  },
+  "engines": {
+    "node": ">=0.10.36"
   },
   "repository": {
     "type": "git",
