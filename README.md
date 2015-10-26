@@ -14,7 +14,10 @@
 ## API
 
 ```js
-// TODO: Add API documentation.
+var slm = require('jstransformer')(require('jstransformer-slm'))
+
+slm.render('p Hello, ${this.name}!', {"name": "World"}).body
+//=> '<p>Hello, World!</p>'
 ```
 
 ## License
