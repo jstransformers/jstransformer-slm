@@ -1,8 +1,8 @@
-'use strict';
+'use strict'
 
-var slm = require('slm');
+var slm = require('slm')
 
-exports.name = 'slm';
-exports.outputFormat = 'html';
+exports.name = 'slm'
+exports.outputFormat = 'html'
 
-exports.compile = slm.compile;
+exports.compile = slm.compile
