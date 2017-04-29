@@ -1,5 +1,7 @@
 # jstransformer-slm
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/jstransformers/jstransformer-slm.svg)](https://greenkeeper.io/)
+
 [Slm](https://github.com/slm-lang/slm) support for [JSTransformers](http://github.com/jstransformers).
 
 [![Build Status](https://img.shields.io/travis/jstransformers/jstransformer-slm/master.svg)](https://travis-ci.org/jstransformers/jstransformer-slm)
