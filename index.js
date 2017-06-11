@@ -1,6 +1,6 @@
 'use strict'
 
-var slm = require('slm')
+const slm = require('slm')
 
 exports.name = 'slm'
 exports.outputFormat = 'html'
