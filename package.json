@@ -1,6 +1,6 @@
 {
   "dependencies": {
-    "slm": "^1.0.0"
+    "slm": "^2.0.0"
   },
   "name": "jstransformer-slm",
   "version": "1.2.0",
